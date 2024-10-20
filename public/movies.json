@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Inside Out 2",
+    "image": "Inside Out 2.jpg",
+    "genre": "Fantasy",
+    "rating": "7.6"
+  },
+  {
+    "id": 2,
+    "title": "Deadpool & Wolverine",
+    "image": "Deadpool & Wolverine.jpg",
+    "genre": "Fantasy",
+    "rating": "7.8"
+  },
+  {
+    "id": 3,
+    "title": "Despicable Me 4",
+    "image": "Despicable Me 4.jpg",
+    "genre": "horror",
+    "rating": "6.3"
+  },
+  {
+    "id": 4,
+    "title": "Dune: Part Two",
+    "image": "Dune Part Two.jpg",
+    "genre": "Action",
+    "rating": "8.5"
+  },
+  {
+    "id": 5,
+    "title": "Twisters",
+    "image": "Twisters.jpg",
+    "genre": "Action",
+    "rating": "6.6"
+  },
+  {
+    "id": 6,
+    "title": "Godzilla x Kong: The New Empire",
+    "image": "Godzilla x Kong The New Empire.jpg",
+    "genre": "Action",
+    "rating": "6.1"
+  },
+  {
+    "id": 7,
+    "title": "Kung Fu Panda 4",
+    "image": "Kung Fu Panda 4.jpg",
+    "genre": "Comedy",
+    "rating": "6.3"
+  },
+  {
+    "id": 8,
+    "title": "Bad Boys: Ride or Die",
+    "image": "Bad Boys Ride or Die.jpg",
+    "genre": "Action",
+    "rating": "6.6"
+  },
+  {
+    "id": 9,
+    "title": "Beetlejuice Beetlejuice",
+    "image": "Beetlejuice Beetlejuice.jpg",
+    "genre": "Horror",
+    "rating": "6.9"
+  },
+  {
+    "id": 10,
+    "title": "Kingdom of the Planet of the Apes",
+    "image": "Kingdom of the Planet of the Apes.jpg",
+    "genre": "Sci-fi",
+    "rating": "6.9"
+  }
+]
