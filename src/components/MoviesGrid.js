@@ -79,6 +79,7 @@ export default function MoviesGrid({ movies, watchlist, toggleWatchlist }) {
             <option>Action</option>
             <option>Comedy</option>
             <option>Drama</option>
+            <option>Family</option>
             <option>Fantasy</option>
             <option>Horror</option>
             <option>Sci-fi</option>

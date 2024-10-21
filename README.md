@@ -1,5 +1,5 @@
 # CineRate
-A movie rating website that provides information about movies, TV shows, and other media, including their cast, crew, and genre.
+![CineRate screenshot](public/screenshot.png)
 
 # Getting Started with Create React App
 
