@@ -99,7 +99,6 @@ export default function MoviesGrid({ movies, watchlist, toggleWatchlist }) {
           </select>
         </div>
       </div>
-
       <div className="movies-grid">
         {filteredMovies.map((movie) => (
           <MovieCard

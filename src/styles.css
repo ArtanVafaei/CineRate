@@ -27,7 +27,7 @@ body {
 .search-input {
   padding: 15px;
   margin: 25px 10px;
-  width: 100%;
+  width: 75%;
   font-size: 16px;
   border-radius: 100px;
   border: 1px solid #ccc;
@@ -135,7 +135,7 @@ body {
 
 .footer-text {
   color: rgba(255, 255, 255, 0.7);
-  font-size: 0.9rem;
+  font-size: 0.9375rem;
 }
 
 .rating-good {
